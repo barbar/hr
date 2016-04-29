@@ -1,8 +1,8 @@
-Here at barbar, we don't care about the source of your education or your traditional resume, we care about your abilities. We are looking for the following traits:
+Here at Barbar, we don't care about the source of your education or your traditional resume, we care about your abilities. We are looking for the following traits:
 
 ##Contributors
 
-People who have contributed value to open source projects. Your github profile is the most important asset for us to benchmark your skills. Code is never measured in quantity, but rather quality. We value those who can do more with less code.
+People who have contributed value to open source projects. Your GitHub profile is the most important asset for us to benchmark your skills. Code is never measured in quantity, but rather quality. We value those who can do more with less code.
 
 ##Architects
 
@@ -10,9 +10,9 @@ People who can design good APIs and source layouts on the first try. This is cru
 
 ##Motivated
 
-At barbar, we value people with extreme passion, self motivated and eager to help out community around him/her.
+At Barbar, we value people with extreme passion, self motivated and eager to help out community around him/her.
 
 ##by Steve
 Here's to the crazy ones, the misfits, the rebels, the troublemakers, the round pegs in the square holes... the ones who see things differently -- they're not fond of rules... You can quote them, disagree with them, glorify or vilify them, but the only thing you can't do is ignore them because they change things... they push the human race forward, and while some may see them as the crazy ones, we see genius, because the ones who are crazy enough to think that they can change the world, are the ones who do.
 
-Say hey serhan@barbar.com.tr
+Reach us at hey@barbar.com.tr
