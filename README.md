@@ -10,7 +10,7 @@ People who have contributed value to open source projects. Your GitHub profile i
 
 People who can design good APIs and source layouts on the first try. This is crucial to working in teams and scaling.  It's easy to build something that works, it's hard to build something that works 100% of the time. 
 
-##Motivated
+##Motivators
 
 At Barbar, we value people with extreme passion, self motivated and eager to help out community around him/her.
 
