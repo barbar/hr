@@ -1,4 +1,4 @@
-<img src="https://barbaruploads.s3.amazonaws.com/bicoz/barbar-mini-logo-new.png" width="370px" />
+<img src="https://barbaruploads.s3.amazonaws.com/bicoz/barbar-mini-logo-new.png" width="185px" />
 
 Here at Barbar, we don't care about the source of your education or your traditional resume, we care about your abilities. We are looking for the following traits:
 
